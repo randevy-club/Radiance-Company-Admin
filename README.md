@@ -1,1 +1,1 @@
-# Radiance-Company-Admin
+# Radiance Company Admin
